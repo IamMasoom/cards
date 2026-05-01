@@ -1,8 +1,15 @@
 import React from 'react'
+import Masoom from './Masoom'
+import Tousif from './Tousif'
+import Faiz from './Faiz'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Masoom />
+      <Tousif />
+      <Faiz />
+    </div>
   )
 }
 
