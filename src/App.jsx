@@ -1,8 +1,11 @@
 import React from 'react'
+import Faiz from './Faiz'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Faiz />
+    </div>
   )
 }
 
